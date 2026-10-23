@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:11:01.083Z",
+  "generated_at": "2026-10-23T08:45:30.592Z",
   "items": {
     "problem:4": {
       "kind": "problem",
@@ -154,6 +154,19 @@
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-10-23T08:10:58.699Z",
       "last_pushed_at": "2026-10-23T08:10:58.699Z"
+    },
+    "lab:9": {
+      "kind": "lab",
+      "id": "9",
+      "title": "Design Your Own Activation Function",
+      "difficulty": "easy",
+      "category": "Activation Functions",
+      "url": "https://www.deep-ml.com/labs/9",
+      "path": "labs/0009-design-your-own-activation-function",
+      "first_solved_at": "2026-10-23T08:45:29.797Z",
+      "last_pushed_at": "2026-10-23T08:45:29.797Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
